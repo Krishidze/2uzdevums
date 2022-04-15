@@ -1,0 +1,15 @@
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\bin\Debug\net6.0\2ndHomework.exe
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\bin\Debug\net6.0\2ndHomework.deps.json
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\bin\Debug\net6.0\2ndHomework.runtimeconfig.json
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\bin\Debug\net6.0\2ndHomework.dll
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\bin\Debug\net6.0\2ndHomework.pdb
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\2ndHomework.csproj.AssemblyReference.cache
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\2ndHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\2ndHomework.AssemblyInfoInputs.cache
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\2ndHomework.AssemblyInfo.cs
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\2ndHomework.csproj.CoreCompileInputs.cache
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\2ndHomework.dll
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\refint\2ndHomework.dll
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\2ndHomework.pdb
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\2ndHomework.genruntimeconfig.cache
+D:\Coding\MyFirstRepo\2ndHomework\2ndHomework\2ndHomework\obj\Debug\net6.0\ref\2ndHomework.dll
